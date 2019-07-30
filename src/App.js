@@ -1,16 +1,16 @@
-import React from 'react';
-import './App.css';
+import React from 'react'
+import './App.css'
 
-function App() {
+function App () {
   return (
-    <div className="App">
-      <header className="App-header">
+    <div className='App'>
+      <header className='App-header'>
         <p>
           WIP, aren't we all?
         </p>
       </header>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
